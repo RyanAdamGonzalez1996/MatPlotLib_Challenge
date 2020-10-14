@@ -4,7 +4,11 @@ Read in data from two csv files and manipulate and format the data onto multiple
 
 OBSERVATIONS ##################################################
 
+1. Propriva having the lowest amount of datapoints shows that the success rate for this drug is low, as the mice are not living long enough to get the full amount of datapoints. Likewise, Capomulin seems to have the highest success rate as it is the drug regimen with the highest amount of datapoints, indicating that the mice on that regimen are living longer.
 
+2. For the Capomulin regimen, it shows a correlation between the size of the average tumor with the heavier mice. This can show that the dosage is not as potent for the bigger mice and/or the tumor growth seems to be correlated with a mouse's size.
+
+3. Based off of the box and whisker plot, Ceftamin has the least consistency of all of the four tested regimens. This data shows that the the drug seems to only work for specific mice, possibly due to their genetics, and despite it working well for select mice, the drugs overall ability to reduce tumor size, is definitely one of the least effective regimens.
 
 ###############################################################
 
